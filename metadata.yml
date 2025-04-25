@@ -10,7 +10,8 @@ Subtask: Featurization
 Input: 
 - Compound
 Input Dimension: 1
-Output: Descriptor
+Output: 
+- Descriptor
 Output Dimension: 1000
 Output Consistency: Fixed
 Interpretation: "Vector representation of a molecule"
