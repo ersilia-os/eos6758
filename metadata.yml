@@ -7,7 +7,8 @@ Source: Local
 Source Type: External
 Task: Representation
 Subtask: Featurization
-Input: Compound
+Input: 
+- Compound
 Input Dimension: 1
 Output: Descriptor
 Output Dimension: 1000
